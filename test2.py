@@ -6,4 +6,4 @@ print('안녕하세요')
 print('hello')
 
 def hello():
-    print('안녕하세요!^^')
+    return '안녕하세요 ^^!'
