@@ -4,3 +4,6 @@ print('코드 변경 됨')
 
 print('안녕하세요')
 print('hello')
+
+def hello():
+    return '안녕하세요 ^^!'
